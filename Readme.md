@@ -2,11 +2,11 @@
 
 ## System architecture
 
-![System Architecture Diagram][/Graphics/Architecture.png?raw=true]
+![System Architecture Diagram][https://github.com/AdamDlubak/PWr-Movies-Recommendation-System/blob/master/Graphics/Architecture.png]
 
 ## System Recommendation Results
 
-![System Recommendation Results][/Graphics/Results.png?raw=true]
+![System Recommendation Results][https://github.com/AdamDlubak/PWr-Movies-Recommendation-System/blob/master/Graphics/Results.png]
 
 ## Simple Instruction:
 
