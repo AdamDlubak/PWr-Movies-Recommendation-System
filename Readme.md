@@ -2,11 +2,11 @@
 
 ## System architecture
 
-![System Architecture Diagram][./Graphics/Architecture.png]
+![System Architecture Diagram][/Graphics/Architecture.png?raw=true]
 
 ## System Recommendation Results
 
-![System Recommendation Results][./Graphics/Results.png]
+![System Recommendation Results][/Graphics/Results.png?raw=true]
 
 ## Simple Instruction:
 
